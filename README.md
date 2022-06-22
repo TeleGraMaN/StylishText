@@ -27,7 +27,7 @@
 
 `•OWNER_ID` Get It on Telegram BoT [@MHBeastBot](https://t.me/MHBeastBoT)
 ## Deploy To Heroku 
-[![20220411_065237](https://user-images.githubusercontent.com/91818980/162686070-c0064258-1f97-4ddd-b3f4-87f7524cdaf0.png)](https://heroku.com/deploy)
+[![Mutyala Harshith](https://user-images.githubusercontent.com/91818980/162686070-c0064258-1f97-4ddd-b3f4-87f7524cdaf0.png)](https://heroku.com/deploy)
 
 ## Create Own BoT
 [Create Your own Bot by see thiz video click here](https://youtu.be/J3_LnYhvw94)
