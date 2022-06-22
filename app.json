@@ -9,7 +9,7 @@
   "logo": "https://telegra.ph/file/236794ce4bb2213eaae1e.jpg",
   "success_url": "https://github.com/MutyalaHarshith/StylishText",
   "website": "https://t.me/MutyalaHarshith",
-  "repository": "https://github.com/MutyalaHarshith/StylishText",
+  "repository": "https://github.com/TeleGraMaN/StylishText",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -17,19 +17,19 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "1234567890"
+      "value": "Bot Token"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "12345"
+      "value": "api id"
     },
     "OWNER_ID": {
       "description": "give your telegram user id here",
-      "value": "123456789"
+      "value": "your id"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "aboycandoeverythigforgirl#harshith"
+      "value": "api hash"
     }
   },
   "addons": [
